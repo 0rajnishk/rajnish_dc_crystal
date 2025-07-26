@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rajnish-dc-crystal"
-version = "0.1.0"
+version = "0.1.1"
 description = "Automate Crystal HR punch in/out operations"
 readme = "README.md"
 authors = [
