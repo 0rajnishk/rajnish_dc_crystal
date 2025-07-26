@@ -1,0 +1,8 @@
+2025-07-26 22:34:54,409 - rajnish_dc_crystal.config - INFO - Created default config at /home/rajnish/.config/crystal_hr/config.json
+2025-07-26 22:34:54,409 - rajnish_dc_crystal.cli - INFO - Created default config at /home/rajnish/.config/crystal_hr/config.json
+2025-07-26 22:37:39,514 - rajnish_dc_crystal.config - INFO - Loaded config from /home/rajnish/.config/crystal_hr/config.json
+2025-07-26 22:37:39,514 - rajnish_dc_crystal.core - INFO - 🔐 Attempting login for user: dc6611
+2025-07-26 22:37:44,251 - rajnish_dc_crystal.core - INFO - ✅ Login successful!
+2025-07-26 22:37:44,251 - rajnish_dc_crystal.core - INFO - ⏰ Attempting Punch In...
+2025-07-26 22:37:45,163 - rajnish_dc_crystal.core - INFO - ✅ Punch In successful: Web punch saved successfully
+2025-07-26 22:37:49,118 - rajnish_dc_crystal.emailer - INFO - ✅ Email sent: HR Automation: Punch In Successful
