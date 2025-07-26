@@ -40,7 +40,7 @@ def create_default_config(config_path: Optional[Path] = None) -> Dict[str, Any]:
         },
         "behavior": {
             "default_delay_minutes": 0,
-            "random_delay_max_minutes": 0
+            "random_delay_max_minutes": 10
         }
     }
     
